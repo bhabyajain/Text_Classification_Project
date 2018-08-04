@@ -1,1 +1,2 @@
-# Text_Classification_Project
+Given a dataset of 20 different newspaper folders where each folder contained thousands of files which have text written inside them. I have predicted that the new text file should belong to which newspaper using my own naive bayes algorithm. I have also compared the algorithm by implementing sklearn naive bayes algorithm. The former gave accuracy of 89% while the later gave 91%.
+The link for the dataset is:http://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups
